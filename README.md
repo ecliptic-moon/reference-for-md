@@ -31,6 +31,6 @@ Italics, on the other hand, are done like this; `_Text_`
 
 &nbsp;
 
-Examples of both: 
+Examples of both:  
 **Bold!**  
 _Italic!_
