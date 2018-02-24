@@ -33,3 +33,15 @@ Italics, on the other hand, are done like this; `_Text_`
 Examples of both:  
 **Bold!**  
 _Italic!_
+
+&nbsp;
+
+## Text formatting (2)
+In this instance of text formatting, I'll cover how to turn text into a URL (The meaning of URL has been stated above).
+
+To do this, you follow this simple syntax; `[Text](https://link)`
+
+&nbsp;
+
+Example:  
+[GitHub!](https://github.com)
