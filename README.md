@@ -15,8 +15,10 @@ On the other hand, `##` creates a smaller version of the heading, and `###` crea
 &nbsp;
 
 Examples of all 3:
-# Heading  
+# Heading
+
 ## Sub-heading  
+
 ### Sub-sub-heading
 
 &nbsp;
