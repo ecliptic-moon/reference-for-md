@@ -8,9 +8,9 @@ If you feel something needs changing, contributions are always accepted.
 [Headings](https://github.com/ecliptic-moon/reference-for-md/blob/master/README.md#headings-sub-headings-and-sub-sub-headings)  
 [Text Formatting](https://github.com/ecliptic-moon/reference-for-md/blob/master/README.md#text-formatting)
 
-&nbsp;
-
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+&nbsp;
 
 ## Headings, sub-headings and sub-sub-headings
 The `#` symbol creates a larger heading to work with, this could be used for a title.  
