@@ -2,13 +2,9 @@
 The whole purpose of this repository is to provide a simple .md (Markdown) reference.  
 If you feel something needs changing, contributions are always accepted.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
 ## Table of Contents
 [Headings](https://github.com/ecliptic-moon/reference-for-md/blob/master/README.md#headings-sub-headings-and-sub-sub-headings)  
 [Text Formatting](https://github.com/ecliptic-moon/reference-for-md/blob/master/README.md#text-formatting)
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 &nbsp;
 
