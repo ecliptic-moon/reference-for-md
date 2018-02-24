@@ -15,7 +15,8 @@ If you feel something needs changing, contributions are always accepted.
 The `#` symbol creates a larger heading to work with, this could be used for a title.  
 On the other hand, `##` creates a smaller version of the heading, and `###` creates an **even smaller** version of the sub-heading.<br/>
 
-Examples:
+&nbsp;
+Examples of all 3:
 # Heading  
 ## Sub-heading  
 ### Sub-sub-heading
