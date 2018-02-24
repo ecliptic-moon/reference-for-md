@@ -19,7 +19,7 @@ Examples of all 3:
 ## Sub-heading  
 ### Sub-sub-heading
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+&nbsp;
 
 ## Text formatting
 Text can be formatted into a URL (uniform resource locator); turned into bold and italic text; the possibilities are endless!  
