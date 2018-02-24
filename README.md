@@ -21,3 +21,19 @@ Examples of all 3:
 # Heading  
 ## Sub-heading  
 ### Sub-sub-heading
+
+>  
+> 
+
+## Text formatting
+Text can be formatted into a URL (uniform resource locator); turned into bold and italic text; the possibilities are endless!  
+Specifically, I'll cover how to do bold and italic text this time around.
+
+Bold text is done like so; `**Text**`  
+Italics, on the other hand, are done like this; `_Text_`
+
+&nbsp;
+
+Examples of both: 
+**Bold!**  
+_Italic!_
