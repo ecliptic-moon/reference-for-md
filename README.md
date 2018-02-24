@@ -16,6 +16,7 @@ The `#` symbol creates a larger heading to work with, this could be used for a t
 On the other hand, `##` creates a smaller version of the heading, and `###` creates an **even smaller** version of the sub-heading.<br/>
 
 &nbsp;
+
 Examples of all 3:
 # Heading  
 ## Sub-heading  
