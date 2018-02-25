@@ -5,7 +5,7 @@ If you feel something needs changing, contributions are always accepted.
 ## Table of Contents
 [Headings](https://github.com/ecliptic-moon/reference-for-md/blob/master/README.md#headings-sub-headings-and-sub-sub-headings)  
 [Text Formatting](https://github.com/ecliptic-moon/reference-for-md/blob/master/README.md#text-formatting)  
-[Text Formatting Pt. 2](https://github.com/ecliptic-moon/reference-for-md#text-formatting-2)
+[Text Formatting Pt. 2](https://github.com/ecliptic-moon/reference-for-md#text-formatting-2)  
 [Using Codeblocks](https://github.com/ecliptic-moon/reference-for-md#putting-code-examples-into-your-extended-descriptions)
 
 &nbsp;
