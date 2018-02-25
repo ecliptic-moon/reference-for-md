@@ -54,8 +54,8 @@ To do this, simply wrap backticks (\`) around the text you want to codify.
 Example: \`test\` -> `test`.
 
 In order to create a bigger codeblock for larger code examples, do the following:  
-\`\`\`
-TEXT
+\`\`\`  
+TEXT  
 \`\`\`
 
 The above should output the following:
