@@ -56,9 +56,10 @@ Example: \`test\` -> `test`.
 In order to create a bigger codeblock for larger code examples, do the following:  
 \`\`\`  
 TEXT  
-\`\`\`
+\`\`\`  
+Notice the triple backticks? 3 backticks on the top and bottom indicate that you're creating a larger codeblock.
 
-The above should output the following:
+The above example should output the following:
 ```
 TEXT
 ```
