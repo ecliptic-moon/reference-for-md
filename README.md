@@ -46,3 +46,20 @@ To do this, you follow this simple syntax; `[Text](https://link)`
 
 Example:  
 [GitHub!](https://github.com)
+
+&nbsp;
+
+## Putting code examples into your extended descriptions
+To do this, simply wrap backticks (\`) around the text you want to codify.  
+Example: \`test\` -> `test`.
+
+In order to create a bigger codeblock for larger code examples, do the following:
+\`\`\`
+TEXT
+\`\`\`
+
+The above should output the following:
+```
+TEXT
+```
+
