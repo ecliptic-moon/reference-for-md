@@ -6,7 +6,7 @@ If you feel something needs changing, contributions are always accepted.
 [Headings](https://github.com/ecliptic-moon/reference-for-md#headings-sub-headings-and-sub-sub-headings)  
 [Text Formatting](https://github.com/ecliptic-moon/reference-for-md#text-formatting)  
 [Text Formatting Pt. 2](https://github.com/ecliptic-moon/reference-for-md#text-formatting-2)  
-[Using Monospace](https://github.com/ecliptic-moon/reference-for-md#using-monospace-and-putting-code-examples-into-your-extended-descriptions)
+[Using Monospace](https://github.com/ecliptic-moon/reference-for-md#using-monospace-and-putting-code-examples-into-your-extended-descriptions)  
 [Lists](https://github.com/ecliptic-moon/reference-md/#lists)
 
 &nbsp;
