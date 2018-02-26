@@ -83,24 +83,16 @@ Unordered list:
 * Another?
 
 It's done like so:  
-`* List item`  
-
-The above example looks like this:  
-* List item
+`* List item`
 
 &nbsp;
 
 Ordered list:  
-1. Like this
-2. Add another
+1. Like this  
+2. Add another  
 3. Andddd, another
 
 It's done like so:  
-`1. List item`
-`2. List item 2`
+`1. List item`  
+`2. List item 2`  
 `3. List item 3`
-
-The above examples look like this:  
-1. List item
-2. List item 2
-3. List item 3
