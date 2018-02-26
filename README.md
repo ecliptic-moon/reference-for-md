@@ -6,7 +6,7 @@ If you feel something needs changing, contributions are always accepted.
 [Headings](https://github.com/ecliptic-moon/reference-for-md#headings-sub-headings-and-sub-sub-headings)  
 [Text Formatting](https://github.com/ecliptic-moon/reference-for-md#text-formatting)  
 [Text Formatting Pt. 2](https://github.com/ecliptic-moon/reference-for-md#text-formatting-2)  
-[Using Codeblocks](https://github.com/ecliptic-moon/reference-for-md#putting-code-examples-into-your-extended-descriptions)
+[Using Monospace](https://github.com/ecliptic-moon/reference-for-md#putting-code-examples-into-your-extended-descriptions)
 
 &nbsp;
 
@@ -50,7 +50,7 @@ Example:
 
 &nbsp;
 
-## Putting code examples into your extended descriptions
+## Using monospace and putting code examples into your extended descriptions
 To do this, simply wrap backticks (\`) around the text you want to codify.  
 Example: \`test\` -> `test`.
 
