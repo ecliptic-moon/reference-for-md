@@ -72,8 +72,10 @@ TEXT
 There are 2 types of lists included in markdown.
 
 They are:  
-1] Ordered lists
+1] Ordered lists  
 2] Unordered lists
+
+&nbsp;
 
 Unordered list:  
 * Like this
