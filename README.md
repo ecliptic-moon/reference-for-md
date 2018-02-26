@@ -7,6 +7,7 @@ If you feel something needs changing, contributions are always accepted.
 [Text Formatting](https://github.com/ecliptic-moon/reference-for-md#text-formatting)  
 [Text Formatting Pt. 2](https://github.com/ecliptic-moon/reference-for-md#text-formatting-2)  
 [Using Monospace](https://github.com/ecliptic-moon/reference-for-md#using-monospace-and-putting-code-examples-into-your-extended-descriptions)
+[Lists](https://github.com/ecliptic-moon/reference-md/#lists)
 
 &nbsp;
 
@@ -65,3 +66,39 @@ The above example should output the following:
 TEXT
 ```
 
+&nbsp;
+
+## Lists
+There are 2 types of lists included in markdown.
+
+They are:  
+1] Ordered lists
+2] Unordered lists
+
+Unordered list:  
+* Like this
+* Add another list item
+* Another?
+
+It's done like so:  
+`* List item`  
+
+The above example looks like this:  
+* List item
+
+&nbsp;
+
+Ordered list:  
+1. Like this
+2. Add another
+3. Andddd, another
+
+It's done like so:  
+`1. List item`
+`2. List item 2`
+`3. List item 3`
+
+The above examples look like this:  
+1. List item
+2. List item 2
+3. List item 3
